@@ -1,4 +1,4 @@
-# 📊 PROYECTO ANÁLISIS DE DATOS PARA EL COMERCIO SOLREPUESTOSJAPONESES 🛠️
+# 📊 Proyecto de Análisis de datos para el comercio 'Sol Repuestos Japoneses'🛠️
 
 # 👤 Autor
 Juana Zorzolo Rubio 
@@ -12,7 +12,7 @@ Juana Zorzolo Rubio
 
 ## 📝 Descripción
 
-Este proyecto realiza un análisis exploratorioy visualización de datos de ventas y stock de la empresa Sol Repuestos, 
+Este proyecto realiza un análisis exploratorio y visualización de datos de ventas y stock del comercio Sol Repuestos (un negocio dedicado a la venta de repuestos automotores), 
 con el objetivo de brindar información estratégica para la toma de decisiones comerciales. A partir de los datos disponibles sobre ventas y stock, 
 se identifican productos de alta y baja rotación, piezas más vendidas, distribución de ventas por marca y temporalidad, 
 así como productos con stock crítico o desbalance entre stock y ventas.
