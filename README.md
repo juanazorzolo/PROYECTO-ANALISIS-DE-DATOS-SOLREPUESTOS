@@ -1,6 +1,6 @@
 # 📊 Proyecto de Análisis de datos para el comercio 'Sol Repuestos Japoneses'🛠️
 
-# 👤 Autor
+## 👤 Autor
 Juana Zorzolo Rubio 
 
 📊 Estudiante avanzada de Tecnicatura Universitaria en IA
